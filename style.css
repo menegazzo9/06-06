@@ -1,0 +1,23 @@
+body {
+    background: #ff9f9f
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+     text-align: center;
+}
+
+#historia {
+   font-size: 30px
+}
+
+em strong {
+    color: #ffbf00;
+}
